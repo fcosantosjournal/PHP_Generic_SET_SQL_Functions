@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * Generic SQL Methods 
+ *
+ * PHP version 8.1.0
+ * Author: Francisco Santos
+ * Email: contato@fcosantos.pt
+ * 
+ */
+
 namespace App\Models;
 
 class GenericModel
